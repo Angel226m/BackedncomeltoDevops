@@ -1,1 +1,0 @@
-# Manual para usuarios finales 

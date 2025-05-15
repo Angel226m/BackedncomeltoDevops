@@ -1,1 +1,0 @@
-# Variables del módulo 

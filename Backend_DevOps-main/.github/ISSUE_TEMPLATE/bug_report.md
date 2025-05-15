@@ -1,1 +1,0 @@
-# Plantilla para reportar bugs 
